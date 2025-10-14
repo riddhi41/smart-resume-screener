@@ -95,14 +95,17 @@ Open the app
 Visit http://127.0.0.1:8000 in your browser.
 
 Project Structure
-smart_resume_screener/
-│
-├── main.py                # FastAPI backend
-├── templates/
-│   └── index.html         # Frontend page
-├── model/
-│   └── config.json        # Your fine-tuned LLM
-├── requirements.txt
-├── README.md
-└── resume_dataset.csv     # Training data
+smart_resume_screener
+|
+main.py 
+|
+templates/ index.html         
+|
+model/ config.json       
+|
+requirements.txt
+|
+README.md
+|
+resume_dataset.csv    
 
