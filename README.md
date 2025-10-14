@@ -85,9 +85,11 @@ git clone https://github.com/<your-username>/smart-resume-screener.git
 cd smart-resume-screener
 
 Install dependencies
+
 pip install -r requirements.txt
 
 Run the backend
+
 uvicorn main:app --reload
 
 Open the app
