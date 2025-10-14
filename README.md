@@ -49,7 +49,7 @@ Version Control | Git + GitHub
 
 **Example LLM Prompts**
 
-**Fit Score Prompt**
+**Fit Score Prompt**:
 Compare the following resume with the given job description.
 Rate the candidate’s fit on a scale of 1–10, and briefly justify the score.
 
