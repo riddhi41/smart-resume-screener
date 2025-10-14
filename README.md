@@ -96,6 +96,10 @@ Open the app
 
 Visit http://127.0.0.1:8000 in your browser.
 
+## Demo Video
+https://drive.google.com/file/d/1PP2_wCVeHdOwCP-nvkCT0QrK7Ub_cjFg/view?usp=sharing
+
+
 **Project Structure**
 
 smart_resume_screener
